@@ -18,7 +18,7 @@
 
 🔹 I'm working on a self-made version of [Tetris](https://github.com/NicolasSerranoGarcia/Tetris-game) on C++ and SDL. All support is apreciated!
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=NicolasSerranoGarcia&repo=Tetris-game&theme=tokyonight)](https://github.com/NicolasSerranoGarcia/Tetris-game)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=NicolasSerranoGarcia&repo=Snake-game&theme=tokyonight)](https://github.com/NicolasSerranoGarcia/Tetris-game)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/NicolasSerranoGarcia/Tetris-game)
 

@@ -20,7 +20,9 @@
 
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=NicolasSerranoGarcia&repo=Tetris-game&theme=tokyonight)](https://github.com/NicolasSerranoGarcia/Tetris-game)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/NicolasSerranoGarcia/Tetris-game)
+![GitHub last commit](https://img.shields.io/github/last-commit/NicolasSerranoGarcia/Tetris-game?color=5a8fff&label=last%20commit&labelColor=2e3440&logo=github&logoColor=ffffff&style=flat)
+
+
 
 
 ## 🔗 Links

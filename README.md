@@ -11,7 +11,7 @@
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NicolasSerranoGarcia&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NicolasSerranoGarcia&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://linktr.ee/NicolasSerrano)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSerranoGarcia&layout=compact&theme=tokyonight)
 ## 👩‍💻 Currently...

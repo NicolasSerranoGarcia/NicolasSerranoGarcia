@@ -2,7 +2,7 @@
 
 🔹 1st year Computer Engineering student at [University of Alicante](https://www.ua.es/), Spain
 
-🔹 Founder of [Reverse Project](https://www.youtube.com/@reverseESP/videos)
+🔹 Co-founder of [Reverse Project](https://www.youtube.com/@reverseESP/videos)
 
 🔹 Passionate about learning
 

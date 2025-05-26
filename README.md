@@ -25,5 +25,5 @@
 
 
 ## 🔗 Links
-[![Linktree](https://img.shields.io/badge/Linktree-NicolasSerrano-9ece6a?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/NicolasSerrano)&nbsp;
+[![Linktree](https://img.shields.io/badge/Linktree-Socials-9ece6a?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/NicolasSerrano)&nbsp;
 [![Email](https://img.shields.io/badge/Email-Contact-f7768e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serranogarcianicolas@gmail.com)

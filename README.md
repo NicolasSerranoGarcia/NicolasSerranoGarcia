@@ -21,7 +21,7 @@
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=NicolasSerranoGarcia&repo=Tetris-game&theme=tokyonight&cache_seconds=1)](https://github.com/NicolasSerranoGarcia/Tetris-game)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/NicolasSerranoGarcia/Tetris-game?color=5a8fff&label=last%20commit&labelColor=2e3440&logo=github&logoColor=ffffff&style=flat)&nbsp;
-[![Lines of Code](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/NicolasSerranoGarcia/45c1e5550e4be08e21d0ccf20d27ef39/raw/lines.json&dummy=NOW&color=5a8fff&labelColor=2e3440&style=flat)](https://github.com/NicolasSerranoGarcia/Tetris-game)
+[![Lines of Code](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/NicolasSerranoGarcia/af893f26e2df800b6357307c268ca77c/raw/lines.json&dummy=NOW&color=5a8fff&labelColor=2e3440&style=flat)](https://github.com/NicolasSerranoGarcia/Tetris-game)
 
 
 ## 🔗 Links

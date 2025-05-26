@@ -11,16 +11,16 @@
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NicolasSerranoGarcia&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://linktr.ee/NicolasSerrano)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NicolasSerranoGarcia&theme=tokyonight&date_format=j%20M%5B%20Y%5D&cacheSeconds=1)](https://linktr.ee/NicolasSerrano)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSerranoGarcia&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSerranoGarcia&layout=compact&theme=tokyonight&cacheSeconds=1)
 ## 👩‍💻 Currently...
 
 🔹 I'm working on a self-made version of [Tetris](https://github.com/NicolasSerranoGarcia/Tetris-game) on C++ and SDL. All support is appreciated!
 
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=NicolasSerranoGarcia&repo=Tetris-game&theme=tokyonight&cache_seconds=1)](https://github.com/NicolasSerranoGarcia/Tetris-game)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/NicolasSerranoGarcia/Tetris-game?color=5a8fff&label=last%20commit&labelColor=2e3440&logo=github&logoColor=ffffff&style=flat)&nbsp;
+![GitHub last commit](https://img.shields.io/github/last-commit/NicolasSerranoGarcia/Tetris-game?color=5a8fff&label=last%20commit&labelColor=2e3440&logo=github&logoColor=ffffff&style=flat&cacheSeconds=1)&nbsp;
 [![Lines of Code](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/NicolasSerranoGarcia/af893f26e2df800b6357307c268ca77c/raw/lines.json&color=5a8fff&labelColor=2e3440&style=flat&dummy=NOW&cacheSeconds=1)](https://github.com/NicolasSerranoGarcia/Tetris-game)
 
 

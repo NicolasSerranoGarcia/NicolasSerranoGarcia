@@ -6,6 +6,7 @@
 
 🔹 Passionate about learning
 
+🔹 I'm specially interested in low-level stuff: OS, low level graphics, assembly...
 
 
 

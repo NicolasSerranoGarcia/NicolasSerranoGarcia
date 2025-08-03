@@ -17,7 +17,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSerranoGarcia&layout=compact&theme=tokyonight&cacheSeconds=1)
 ## 👩‍💻 Currently...
 
-🔹 I'm working on a self-made version of [Tetris](https://github.com/NicolasSerranoGarcia/Tetris-game) on C++ and SDL. All support is appreciated!
+🔹 I've just finished a personalised [Tetris](https://github.com/NicolasSerranoGarcia/Tetris-game) game on C++ and SDL. All support is appreciated!
 
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=NicolasSerranoGarcia&repo=Tetris-game&theme=tokyonight&cache_seconds=1)](https://github.com/NicolasSerranoGarcia/Tetris-game)
 

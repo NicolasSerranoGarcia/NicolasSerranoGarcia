@@ -15,12 +15,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSerranoGarcia&layout=compact&theme=tokyonight&cacheSeconds=1)
 ## 👩‍💻 Currently...
 
-🔹 I've just finished a personalised [Tetris](https://github.com/NicolasSerranoGarcia/Tetris-game) game on C++ and SDL. All support is appreciated!
+🔹 I've just finished a [template](https://github.com/NicolasSerranoGarcia/Tetris-game) that can be used for a C++ project that uses a CMake ecosystem and other useful tools. All support is appreciated!
 
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=NicolasSerranoGarcia&repo=CMake-test&theme=tokyonight&cache_seconds=1)](https://github.com/NicolasSerranoGarcia/CMake-test)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/NicolasSerranoGarcia/Tetris-game?color=5a8fff&label=last%20commit&labelColor=2e3440&logo=github&logoColor=ffffff&style=flat&cacheSeconds=1)&nbsp;
-[![Lines of Code](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/NicolasSerranoGarcia/af893f26e2df800b6357307c268ca77c/raw/lines.json&color=5a8fff&labelColor=2e3440&style=flat&dummy=NOW&cacheSeconds=4)](https://github.com/NicolasSerranoGarcia/Tetris-game)
+![GitHub last commit](https://img.shields.io/github/last-commit/NicolasSerranoGarcia/CMake-test?color=5a8fff&label=last%20commit&labelColor=2e3440&logo=github&logoColor=ffffff&style=flat&cacheSeconds=1)&nbsp;
+![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)
 
 
 ## 🔗 Links

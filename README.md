@@ -2,9 +2,7 @@
 
 🔹 1º year Computer Engineering student at [University of Alicante](https://www.ua.es/), Spain
 
-🔹 Co-founder of [Reverse Project](https://www.youtube.com/@reverseESP/videos)
-
-🔹 Passionate about learning
+🔹 I love learning new stuff and I'm always ready to build new things
 
 🔹 I'm specially interested in low-level stuff: Operating Systems, networking, graphics...
 
@@ -19,7 +17,7 @@
 
 🔹 I've just finished a personalised [Tetris](https://github.com/NicolasSerranoGarcia/Tetris-game) game on C++ and SDL. All support is appreciated!
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=NicolasSerranoGarcia&repo=Tetris-game&theme=tokyonight&cache_seconds=1)](https://github.com/NicolasSerranoGarcia/Tetris-game)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=NicolasSerranoGarcia&repo=CMake-test&theme=tokyonight&cache_seconds=1)](https://github.com/NicolasSerranoGarcia/CMake-test)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/NicolasSerranoGarcia/Tetris-game?color=5a8fff&label=last%20commit&labelColor=2e3440&logo=github&logoColor=ffffff&style=flat&cacheSeconds=1)&nbsp;
 [![Lines of Code](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/NicolasSerranoGarcia/af893f26e2df800b6357307c268ca77c/raw/lines.json&color=5a8fff&labelColor=2e3440&style=flat&dummy=NOW&cacheSeconds=4)](https://github.com/NicolasSerranoGarcia/Tetris-game)

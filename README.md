@@ -17,8 +17,6 @@
 
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=NicolasSerranoGarcia&repo=DeskUp&theme=tokyonight&cache_seconds=1)](https://github.com/NicolasSerranoGarcia/CMake-test)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/NicolasSerranoGarcia/CMake-test?color=5a8fff&label=last%20commit&labelColor=2e3440&logo=github&logoColor=ffffff&style=flat&cacheSeconds=1)&nbsp;
-![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)
 
 
 ## 🔗 Links

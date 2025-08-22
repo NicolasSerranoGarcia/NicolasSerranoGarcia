@@ -15,7 +15,7 @@
 
 🔹 I'm building a cross-platform app that lets you save and load your desktop workspaces. All support is appreciated!
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=NicolasSerranoGarcia&repo=DeskUp&theme=tokyonight&cache_seconds=1)](https://github.com/NicolasSerranoGarcia/CMake-test)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=NicolasSerranoGarcia&repo=DeskUp&theme=tokyonight&cache_seconds=1)](https://github.com/NicolasSerranoGarcia/DeskUp)
 
 
 

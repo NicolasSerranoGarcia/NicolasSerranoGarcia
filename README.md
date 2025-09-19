@@ -1,6 +1,6 @@
 # Hey, I'm Nico!
 
-🔹 1º year Computer Engineering student at [University of Alicante](https://www.ua.es/), Spain
+🔹 2nd year Computer Engineering student at [University of Alicante](https://www.ua.es/), Spain
 
 🔹 I love learning new stuff and I'm always ready to build new things
 

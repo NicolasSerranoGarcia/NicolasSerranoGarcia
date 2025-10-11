@@ -2,7 +2,7 @@
 
 🔹 2nd year Computer Engineering student at [University of Alicante](https://www.ua.es/), Spain
 
-🔹 I love learning new stuff and I'm always ready to build new things
+🔹 I like building stuff and learning in the process
 
 
 

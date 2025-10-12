@@ -11,7 +11,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NicolasSerranoGarcia&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://linktr.ee/NicolasSerrano)
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSerranoGarcia&layout=compact&theme=tokyonight&cacheSeconds=1)-->
-## 👩‍💻 Currently...
+## Currently...
 
 🔹 I'm building a cross-platform app that lets you save and load your desktop workspaces. All the support is appreciated!
 

@@ -13,7 +13,7 @@
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSerranoGarcia&layout=compact&theme=tokyonight&cacheSeconds=1)-->
 ## Currently...
 
-🔹 I'm building a cross-platform app that lets you save and load your desktop workspaces. All the support is appreciated!
+🔹 I'm building a desktop app that lets you save and restore your workspaces. All the support is appreciated!
 
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=NicolasSerranoGarcia&repo=DeskUp&theme=tokyonight&cache_seconds=1)](https://github.com/NicolasSerranoGarcia/DeskUp)
 

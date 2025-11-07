@@ -16,9 +16,3 @@
 - I'm building a desktop app that lets you save and restore your workspaces. All the support is appreciated!
 
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=NicolasSerranoGarcia&repo=DeskUp&theme=tokyonight&cache_seconds=1)](https://github.com/NicolasSerranoGarcia/DeskUp)
-
-
-
-## Links
-[![Linktree](https://img.shields.io/badge/Linktree-Socials-9ece6a?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/NicolasSerrano)&nbsp;
-[![Email](https://img.shields.io/badge/Email-Contact-f7768e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serranogarcianicolas@gmail.com)

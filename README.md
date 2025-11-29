@@ -15,4 +15,4 @@
 
 - I'm building a desktop app that lets you save and restore your workspaces. All the support is appreciated!
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=NicolasSerranoGarcia&repo=DeskUp&theme=tokyonight&cache_seconds=1)](https://github.com/NicolasSerranoGarcia/DeskUp)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=NicolasSerranoGarcia&repo=DeskUp&theme=tokyonight)](https://github.com/NicolasSerranoGarcia/DeskUp)

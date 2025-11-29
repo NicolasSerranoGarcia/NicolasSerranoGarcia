@@ -2,17 +2,8 @@
 
 - 2nd year Computer Engineering student at [University of Alicante](https://www.ua.es/), Spain
 
-- I like building stuff and learning in the process
+- I like building stuff and learning in the process.
 
+- I'm specially keen on C++ and all it's ecosystem, though I'm really curious about tech, so you might see me building other stuff
 
-
-## GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NicolasSerranoGarcia&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://linktr.ee/NicolasSerrano)
-
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSerranoGarcia&layout=compact&theme=tokyonight&cacheSeconds=1)-->
-## Currently...
-
-- I'm building a desktop app that lets you save and restore your workspaces. All the support is appreciated!
-
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=NicolasSerranoGarcia&repo=DeskUp&theme=tokyonight)](https://github.com/NicolasSerranoGarcia/DeskUp)
+- Besides from tech, I enjoy skiing, swimming, playing the drums, camping and music

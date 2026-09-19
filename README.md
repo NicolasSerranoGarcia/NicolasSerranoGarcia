@@ -7,3 +7,5 @@
 - I'm really curious about tech, specially system level design. I mainly program in C++, although Rust and Swift also catch my interest. 
 
 - Outside of tech, I enjoy skiing, swimming, playing the drums and trekking. If you are into any of these, I'd be happy to talk!
+
+- I'm currently on a burnout break. Don't expect activity here!
